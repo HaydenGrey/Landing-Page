@@ -1,0 +1,14 @@
+
+#headerfont {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    ;
+    margin-left: 20px;
+}
+
+#boxgrey {
+    background-color: rgb(226, 224, 255);
+    padding: 15px;
+}
+#objectiveList{
+    border-radius: 25px;
+}
